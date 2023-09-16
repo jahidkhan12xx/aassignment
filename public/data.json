@@ -1,0 +1,74 @@
+[
+    {"id":"1",
+      "course_name": "C",
+      "cover_img": "https://i.ibb.co/7brzZqm/Rectangle-2-2.png",
+      "credit": 3,
+      "price": 99.99,
+      "course_details": "Learn the fundamentals of the C programming language, a powerful tool for system programming and software development."
+    },
+    {
+        "id":"2",
+      "course_name": "Algorithm",
+      "cover_img": "https://i.ibb.co/t391zq1/Rectangle-2-3.png",
+      "credit": 4,
+      "price": 49.99,
+      "course_details": "Master algorithms and data structures that are crucial for efficient problem-solving and software development."
+    },
+    {
+        "id":"3",
+      "course_name": "C++",
+      "cover_img": "https://i.ibb.co/Wcj6MKR/Rectangle-2-4.png",
+      "credit": 5,
+      "price": 19.99,
+      "course_details": "Explore the powerful C++ programming language used in game development, system software, and more."
+    },
+    {
+        "id":"4",
+      "course_name": "Technology",
+      "cover_img": "https://i.ibb.co/xfxN0tQ/Rectangle-2-5.png",
+      "credit": 4,
+      "price": 149.99,
+      "course_details": "Stay up-to-date with the latest technological advancements and their impact on society and industries."
+    },
+    {
+        "id":"5",
+      "course_name": "Machine Learning",
+      "cover_img": "https://i.ibb.co/NWScbMb/Rectangle-2-6.png",
+      "credit": 5,
+      "price": 79.99,
+      "course_details": "Dive into the world of machine learning, covering algorithms, models, and practical applications."
+    },
+    {
+        "id":"6",
+      "course_name": "Data Structure",
+      "cover_img": "https://i.ibb.co/d7K5RGy/Rectangle-3.png",
+      "credit": 3,
+      "price": 69.99,
+      "course_details": "Learn the foundations of data structures and their essential role in efficient data management and manipulation."
+    },
+    {
+        "id":"7",
+      "course_name": "Amazon Web Services",
+      "cover_img": "https://i.ibb.co/TgfXpfz/Rectangle-3-1.png",
+      "credit": 7,
+      "price": 29.99,
+      "course_details": "Get hands-on experience with Amazon Web Services (AWS) cloud computing, including EC2, S3, and more."
+    },
+    {
+        "id":"8",
+      "course_name": "Python",
+      "cover_img": "https://i.ibb.co/fM0HQtR/Rectangle-2.png",
+      "credit": 9,
+      "price": 89.99,
+      "course_details": "Master the Python programming language and its versatility in web development, data analysis, and automation."
+    },
+    {
+        "id":"9",
+      "course_name": "MySQL",
+      "cover_img": "https://i.ibb.co/hm1s2dV/Rectangle-2-1.png",
+      "credit": 8,
+      "price": 59.99,
+      "course_details": "Learn how to design, manage, and optimize relational databases using MySQL, a popular database management system."
+    }
+  ]
+  
