@@ -10,7 +10,7 @@ function App() {
   
   const [cardData,setCardData] = useState([]);
   const [credit,setCredit] =useState([]);
- const [remain,setRemain] = useState([])
+ const [remainCredit,setRemainCredit] = useState([])
   
   const handleCardData = (data) =>{
     const isExist = cardData.find(element => element.id === data.id)
@@ -42,7 +42,7 @@ function App() {
       }
       else{
         setCredit(credit);
-      setRemain(totalRemaining);
+        setRemainCredit(totalRemaining);
       const newCardData = [...cardData,data];
     setCardData(newCardData);
 
@@ -63,7 +63,7 @@ function App() {
       <Header></Header>
       <div className=' flex gap-4'>
       <Cards handleCardData={handleCardData}></Cards>
-      <Bookmarks cardData={cardData} credit={credit} remain={remain}></Bookmarks>
+      <Bookmarks cardData={cardData} credit={credit} remainCredit={remainCredit}></Bookmarks>
 
       </div>
       
